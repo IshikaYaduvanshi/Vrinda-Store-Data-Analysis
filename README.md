@@ -17,3 +17,8 @@ This project analyzes store sales data using Excel.
  
 ## File
 - Vrinda Store Data Analysis.xlsx
+
+## video
+https://github.com/user-attachments/assets/47a377ed-ffd9-4502-84c5-f1e0168ec957
+
+
